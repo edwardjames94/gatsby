@@ -3,11 +3,11 @@ title: Trung Quốc.
 date: "2019-04-01"
 template: "post"
 draft: false
-slug: "/posts/chinese"
+slug: "/chinese"
 category: "Chinese"
 tags:
   - "Chinese"
-description: "Học tiếng Trung Cơ bản."
+description: Cùng nhau học tiếng Trung."
 ---
 
 * Phần 1: Chào hỏi tiếng Trung Quốc
