@@ -3,7 +3,7 @@ title: Japan.
 date: "2019-04-01"
 template: "post"
 draft: false
-slug: "/posts/japan"
+slug: "/japan"
 category: "Japan"
 tags:
   - "Japan"
@@ -443,10 +443,10 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 * Bài 48: Cảm ơn mọi người vì mọi việc.
 
-	体に気をつけて。  	KARADA NI KIOTSUKETE. 	Em hãy chú ý giữ gìn sức khỏe nhé!
+体に気をつけて。  	KARADA NI KIOTSUKETE. 	Em hãy chú ý giữ gìn sức khỏe nhé!
   
-  タイに着いたら連絡してね。 	TAI NI TSUITARA, RENRAKU SHITE NE.    Khi nào đến Thái Lan, thì báo cho bọn chị biết nhé!
+タイに着いたら連絡してね。 	TAI NI TSUITARA, RENRAKU SHITE NE.    Khi nào đến Thái Lan, thì báo cho bọn chị biết nhé!
   
-  はい。いろいろお世話になりました。 	HAI. IROIRO OSEWA NI NARIMASHITA.  	Vâng. Cảm ơn mọi người vì mọi việc.
+はい。いろいろお世話になりました。 	HAI. IROIRO OSEWA NI NARIMASHITA.  	Vâng. Cảm ơn mọi người vì mọi việc.
   
-  健太さんとさくらさんもお元気で。  KENTA-SAN TO SAKURA-SAN MO OGENKIDE.  	Anh Kenta và chị Sakura cũng ở lại mạnh khỏe nhé!
+健太さんとさくらさんもお元気で。  KENTA-SAN TO SAKURA-SAN MO OGENKIDE.  	Anh Kenta và chị Sakura cũng ở lại mạnh khỏe nhé!
