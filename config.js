@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://learns.netlify.com',
   title: 'Learning',
-  subtitle: 'Learning Test English Chinese Japan Brazil What international.',
+  subtitle: 'Learning English, Chinese, Japan, Hebrew,... International.',
   copyright: '© 2019 Learning All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Edward James',
+    name: 'Learning',
     photo: '/photo.jpg',
-    bio: 'Learning Test English Chinese Japan Brazil What international.',
+    bio: 'Learning English, Chinese, Japan, Hebrew,... International.',
     contacts: {
       email: '#',
       telegram: '#',
