@@ -1,13 +1,13 @@
 ---
-title: Japan-1.
+title: Japan.
 date: "2019-04-02"
 template: "post"
 draft: false
-slug: "/Japan-1"
+slug: "/Japan"
 category: "Japan"
 tags:
   - "Japan"
-description: "やさしい日本語 Cùng nhau học tiếng Nhật-1."
+description: "やさしい日本語 Cùng nhau học tiếng Nhật."
 ---
 * Hệ thống chữ viết tiếng Nhật (Bài 1):
 
