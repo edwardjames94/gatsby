@@ -21,7 +21,7 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 こちらこそ。  KOCHIRAKOSO.  Tôi cũng rất hân hạnh được gặp chị.
 
 <center><audio controls>
-<source src="/audio/01-vi-le_03.mp3" type="audio/mpeg">
+<source src="/media/01-vi-le_03.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -38,7 +38,7 @@ Your browser does not support the audio element.
 どういたしまして。	  DÔITASHIMASHITE.  Không có gì ạ.
 
 <center><audio controls>
-<source src="/audio/02-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/02-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -55,7 +55,7 @@ Your browser does not support the audio element.
 すぐそこです。	  SUGU SOKO DESU. Ngay chỗ đó thôi.
 
 <center><audio controls>
-<source src="/audio/03-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/03-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -72,7 +72,7 @@ Your browser does not support the audio element.
 いいえ、私は留学生ではありません。日本人の学生です。  IIE, WATASHI WA RYÛGAKUSEI DEWA ARIMASEN.NIHON-JIN NO GAKUSEI DESU. Không, cháu không phải là du học sinh. Cháu là sinh viên người Nhật.
 
 <center><audio controls>
-<source src="/audio/04-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/04-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -85,7 +85,7 @@ Your browser does not support the audio element.
 それは私の宝物です。私は毎日マンガを読みます。 SORE WA WATASHI NO TAKARAMONO DESU.WATASHI WA MAINICHI MANGA O YOMIMASU.  Những cái đó là báu vật của tôi.Tôi đọc truyện tranh hàng ngày.
 
 <center><audio controls>
-<source src="/audio/05-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/05-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -98,7 +98,7 @@ Your browser does not support the audio element.
 ありがとう。じゃ、今度、電話をしますね。  ARIGATÔ. JA, KONDO, DENWA O SHIMASU NE. Cảm ơn chị. Thế thì, lần sau tôi sẽ điện thoại cho chị nhé.
 
 <center><audio controls>
-<source src="/audio/06-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/06-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -113,7 +113,7 @@ Your browser does not support the audio element.
 シュークリームを２つください。 	SHÛKURÎMU O FUTATSU KUDASAI.  Xin cho tôi 2 chiếc bánh su kem.
 
 <center><audio controls>
-<source src="/audio/07-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/07-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -126,7 +126,7 @@ Your browser does not support the audio element.
 先生、もう一度お願いします。	  SENSEI, MÔICHIDO ONEGAI SHIMASU.  Thưa thày, xin thày nói lại một lần nữa ạ!
 
 <center><audio controls>
-<source src="/audio/08-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/08-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -139,7 +139,7 @@ Your browser does not support the audio element.
 午前９時から１１時までです。ここに８時半に集まって下さい。 GOZEN KUJI KARA JÛICHIJI MADE DESU. KOKO NI HACHIJI HAN NI ATSUMATTE KUDASAI.   Từ 9 giờ đến 11 giờ sáng.Các em hãy tập trung ở đây lúc 8 rưỡi!
 
 <center><audio controls>
-<source src="/audio/09-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/09-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -152,7 +152,7 @@ Your browser does not support the audio element.
 すみません。遅れました。  	SUMIMASEN. OKUREMASHITA.  	Xin lỗi, em đến muộn.
 
 <center><audio controls>
-<source src="/audio/10-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/10-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -163,7 +163,7 @@ Your browser does not support the audio element.
 わあ、行く行く。今度の土曜日ね。  WÂ, IKU IKU.KONDO NO DOYÔBI NE. Ồ, đi chứ, đi chứ! Thứ Bảy này có phải không?
 
 <center><audio controls>
-<source src="/audio/11-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/11-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -178,7 +178,7 @@ Your browser does not support the audio element.
 ええ、まあ。	  Ê, MÂ.  Vâng, tôi cũng hơi quen rồi.
 
 <center><audio controls>
-<source src="/audio/12-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/12-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -191,7 +191,7 @@ Your browser does not support the audio element.
 へえ。新宿に新しい本屋が出来ましたよ。みんなで行きませんか。  HÊ. SHINJUKU NI ATARASHII HON-YA GA DEKIMASHITA YO.MINNA DE IKIMASEN KA.  Thế à? Ở Shinjuku có một hiệu sách mới mở đấy. Tất cả mọi người cùng đi không?
 
 <center><audio controls>
-<source src="/audio/13-vi-le_03.mp3" type="audio/mpeg">
+<source src="/media/13-vi-le_03.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -204,7 +204,7 @@ Your browser does not support the audio element.
 はい、分かりました。  HAI, WAKARIMASHITA.   	Vâng, con hiểu rồi.
 
 <center><audio controls>
-<source src="/audio/14-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/14-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -219,7 +219,7 @@ Your browser does not support the audio element.
 大丈夫、大丈夫。ほら、起きた。	  DAIJÔBU, DAIJÔBU. HORA, OKITA.  Không sao, không sao. Nhìn kìa! Họ dậy rồi.
 
 <center><audio controls>
-<source src="/audio/15-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/15-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -232,7 +232,7 @@ Your browser does not support the audio element.
 ２階です。階段を上がって、右に行ってください。	  NIKAI DESU. KAIDAN O AGATTE, MIGI NI ITTE KUDASAI.  Trên tầng 2 ạ. Chị hãy đi lên cầu thang, rồi rẽ phải.
 
 <center><audio controls>
-<source src="/audio/16-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/16-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -247,7 +247,7 @@ Your browser does not support the audio element.
 ホラーはちょっと…。	  HORÂ WA CHOTTO....  Truyện kinh dị thì hơi…
 
 <center><audio controls>
-<source src="/audio/17-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/17-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -262,7 +262,7 @@ Your browser does not support the audio element.
 分かった。そこにいて。	  WAKATTA. SOKO NI ITE.   Tôi hiểu rồi. Chị cứ ở chỗ đó nhé!
 
 <center><audio controls>
-<source src="/audio/18-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/18-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -277,7 +277,7 @@ Your browser does not support the audio element.
 ごめんなさい。カメラが安かったので、つい見てしまいました。 GOMENNASAI. KAMERA GA YASUKATTA NODE, TSUI MITE SHIMAIMASHITA.  Tôi xin lỗi. Vì máy ảnh rẻ, nên tôi cứ mải xem.
 
 <center><audio controls>
-<source src="/audio/19-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/19-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -292,7 +292,7 @@ Your browser does not support the audio element.
 アニメの曲です。	  ANIME NO KYOKU DESU.  Bài hát của phim hoạt hình ạ.
 
 <center><audio controls>
-<source src="/audio/20-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/20-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -307,7 +307,7 @@ Your browser does not support the audio element.
 大変。門限に間に合わない。	  TAIHEN. MONGEN NI MANIAWANAI. Gay go rồi! Tôi không về kịp giờ đóng cửa kí túc xá mất.
 
 <center><audio controls>
-<source src="/audio/21-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/21-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -320,7 +320,7 @@ Your browser does not support the audio element.
 すみません。気をつけます。	  SUMIMASEN. KI O TSUKEMASU.  Con xin lỗi. Con sẽ chú ý hơn.
 
 <center><audio controls>
-<source src="/audio/22-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/22-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -335,7 +335,7 @@ Your browser does not support the audio element.
 それは大変だったね。    SORE WA TAIHEN DATTA NE.  Thế thì khổ thân nhỉ!
 
 <center><audio controls>
-<source src="/audio/23-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/23-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -348,7 +348,7 @@ Your browser does not support the audio element.
 いいえ、だめです。使わないでください。	  IIE, DAME DESU. TSUKAWANAIDE KUDASAI.   Không, không được! Các em đừng sử dụng từ điển.
 
 <center><audio controls>
-<source src="/audio/24-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/24-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -361,7 +361,7 @@ Your browser does not support the audio element.
 びっくりした。日本は本当に地震が多いですね。	  BIKKURI SHITA. NIHON WA HONTÔ NI JISHIN GA ÔI DESU NE.  Giật cả mình! Nhật Bản đúng là hay có động đất nhỉ.
 
 <center><audio controls>
-<source src="/audio/25-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/25-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -375,7 +375,7 @@ Your browser does not support the audio element.
 Lần sau bọn mình cùng cố gắng nhé.
 
 <center><audio controls>
-<source src="/audio/26-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/26-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -390,7 +390,7 @@ Your browser does not support the audio element.
 来月２０日よ。アンナも一緒に静岡に行かない？	  RAIGETSU HATSUKA YO. ANNA MO ISSHO NI SHIZUOKA NI IKANAI?   Ngày 20 tháng sau đấy. Anna có đi cùng chị đến Shizuoka không?
 
 <center><audio controls>
-<source src="/audio/27-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/27-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -407,7 +407,7 @@ Your browser does not support the audio element.
 （アンナちゃん、かわいいなあ） (ANNA-CHAN, KAWAII NÂ.) 	(Anna dễ thương quá!)
 
 <center><audio controls>
-<source src="/audio/28-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/28-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -420,7 +420,7 @@ Your browser does not support the audio element.
 あの雲が見えると、雨が降るんだよ。 ANO KUMO GA MIERU TO, AME GA FURU N DA YO.  Nếu nhìn thấy đám mây kia, thì trời sẽ mưa đấy.
 
 <center><audio controls>
-<source src="/audio/29-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/29-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -433,7 +433,7 @@ Your browser does not support the audio element.
 雨にぬれたら、風邪をひくよ。    	AME NI NURETARA, KAZE O HIKU YO.    Nếu bị mưa ướt, sẽ bị cảm lạnh đấy.
 
 <center><audio controls>
-<source src="/audio/30-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/30-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -446,7 +446,7 @@ Your browser does not support the audio element.
 わあ、きれいな緑色。香りもいいです。  	WÂ, KIREINA MIDORI IRO. KAORI MO II DESU.   Ồ, màu xanh lục đẹp quá! Hương cũng thơm.
 
 <center><audio controls>
-<source src="/audio/31-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/31-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -461,7 +461,7 @@ Your browser does not support the audio element.
 おやすみ。 	OYASUMI.  	Chúc ngủ ngon.
 
 <center><audio controls>
-<source src="/audio/32-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/32-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -476,7 +476,7 @@ Your browser does not support the audio element.
 写真をくれるんですか。うれしいです。  	SHASHIN O KURERU N DESU KA? URESHII DESU. 	Anh sẽ tặng bức ảnh cho em à? Vui quá ạ!
 
 <center><audio controls>
-<source src="/audio/33-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/33-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -491,7 +491,7 @@ Your browser does not support the audio element.
 いただきます。やわらかくておいしいです。	  	ITADAKIMASU.YAWARAKAKUTE OISHII DESU. Em xin phép. Mềm và ngon quá ạ!
 
 <center><audio controls>
-<source src="/audio/34-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/34-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -506,7 +506,7 @@ Your browser does not support the audio element.
 はい、使えます。  HAI, TSUKAEMASU.  	Vâng, được ạ.
 
 <center><audio controls>
-<source src="/audio/35-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/35-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -519,7 +519,7 @@ Your browser does not support the audio element.
 じゃ、僕が春休みに東京に行きます。 JA, BOKU GA HARUYASUMI NI TÔKYÔ NI IKIMASU.   Thế thì, anh sẽ lên Tokyo trong kì nghỉ Xuân.
 
 <center><audio controls>
-<source src="/audio/36-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/36-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -532,7 +532,7 @@ Your browser does not support the audio element.
 それはよかったわね。  SORE WA YOKATTA WA NE.  	Thế thì tốt rồi.
 
 <center><audio controls>
-<source src="/audio/37-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/37-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -545,7 +545,7 @@ Your browser does not support the audio element.
 まっすぐ行って、３つ目の信号を左に曲がってください。  MASSUGU ITTE, MITTSU ME NO SHINGÔ O HIDARI NI MAGATTE KUDASAI.  Anh hãy đi thẳng, rồi rẽ trái ở chỗ đèn xanh đèn đỏ thứ 3.
 
 <center><audio controls>
-<source src="/audio/38-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/38-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -560,7 +560,7 @@ Your browser does not support the audio element.
 喉を見せてください。かぜだと思います。 NODO O MISETE KUDASAI.KAZE DA TO OMOIMASU.  Để tôi khám họng. Tôi nghĩ là chị bị cảm lạnh.
 
 <center><audio controls>
-<source src="/audio/39-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/39-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -573,7 +573,7 @@ Your browser does not support the audio element.
 そう。欲しいものがあったら、言ってね。 SÔ. HOSHII MONO GA ATTARA, ITTE NE. Thế à? Nếu muốn gì thì nói nhé!
 
 <center><audio controls>
-<source src="/audio/40-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/40-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -588,7 +588,7 @@ Your browser does not support the audio element.
 次は東京で会いましょう。  	TSUGI WA TÔKYÔ DE AIMASHÔ.  	Lần tới, hẹn gặp anh ở Tokyo.
 
 <center><audio controls>
-<source src="/audio/41-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/41-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -603,7 +603,7 @@ Your browser does not support the audio element.
 僕も。支払いは別々にお願いします。  BOKU MO. SHIHARAI WA BETSUBETSUNI ONEGAI SHIMASU.  	Tôi cũng vậy. Cho chúng tôi trả tiền riêng.
 
 <center><audio controls>
-<source src="/audio/42-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/42-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -616,7 +616,7 @@ Your browser does not support the audio element.
 さすが、ロドリゴ！ SASUGA, RODORIGO! 	Rodrigo giỏi quá!
 
 <center><audio controls>
-<source src="/audio/43-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/43-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -629,7 +629,7 @@ Your browser does not support the audio element.
 先生、足がしびれました。いたたたた。	  SENSEI, ASHI GA SHIBIREMASHITA. ITATATATA.  	Thày ơi, chân em bị tê. Ôi, đau quá!
 
 <center><audio controls>
-<source src="/audio/44-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/44-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -646,7 +646,7 @@ Your browser does not support the audio element.
 開けてもいいですか。  	AKETE MO II DESU KA.  Em mở ra có được không ạ?
 
 <center><audio controls>
-<source src="/audio/45-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/45-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -659,7 +659,7 @@ Your browser does not support the audio element.
 帰国する前に、雪を見ることができて幸せです。  KIKOKU SURU MAE NI, YUKI O MIRU KOTO GA DEKITE SHIAWASE DESU.   Trước khi về nước được nhìn thấy tuyết, em thấy vui quá ạ!
 
 <center><audio controls>
-<source src="/audio/46-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/46-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -672,7 +672,7 @@ Your browser does not support the audio element.
 私は…日本語教師になるのが夢です。 	WATASHI WA... NIHONGO-KYÔSHI NI NARU NO GA YUME DESU. Còn em thì…trở thành giáo viên tiếng Nhật là mơ ước của em.
 
 <center><audio controls>
-<source src="/audio/47-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/47-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -687,6 +687,6 @@ Your browser does not support the audio element.
 健太さんとさくらさんもお元気で。  KENTA-SAN TO SAKURA-SAN MO OGENKIDE.  	Anh Kenta và chị Sakura cũng ở lại mạnh khỏe nhé!
 
 <center><audio controls>
-<source src="/audio/48-vi-le_01.mp3" type="audio/mpeg">
+<source src="/media/48-vi-le_01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
