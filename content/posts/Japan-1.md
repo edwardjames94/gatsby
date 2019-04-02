@@ -10,6 +10,8 @@ tags:
 description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 ---
 
+<center>
+
 * Bài 1:  Tôi là
 
 はじめまして。私はアンナです。 HAJIMEMASHITE.WATASHI WA ANNA DESU.  Xin chào.Tôi là Anna.
