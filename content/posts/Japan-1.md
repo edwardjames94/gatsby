@@ -184,3 +184,109 @@ Nếu âm tiết trước MASU là KI, đổi âm tiết này và MASU thành IT
 Động từ IKIMASU, “đi”, là ngoại lệ duy nhất của quy tắc này. Thể TA của từ này là ITTA.
 
 Thật ra, cách chia động từ thể TA giống cách chia động từ thể TE mà bạn đã học trong bài 8 và 9. Bạn chỉ cần thay TE bằng TA, và DE bằng DA. 
+
+* 2 loại tính từ (Bài 13):
+
+Về cơ bản, tính từ được chia làm 2 loại: các tính từ kết thúc bằng âm tiết I và những từ còn lại. Những từ kết thúc bằng âm tiết I được gọi là tính từ đuôi I. Ví dụ như HIROI, "rộng", và ATARASHII, "mới".
+
+Tính từ đứng trước danh từ mà chúng bổ nghĩa. Ví dụ: "một quyển sách mới" là ATARASHII HON.
+
+<img src = "/media/jp15.jpg" alt = "jp15" border = "0" align = "center"/>
+
+Đối với những tính từ không kết thúc bằng âm tiết I, thì thêm NA vào sau các từ đó khi muốn chúng bổ nghĩa cho danh từ. Vì thế, các tính từ loại này được gọi là tính từ đuôi NA. Một ví dụ là SUKI, nghĩa là “thích” mà chúng ta đã học trong phần hội thoại. Có lẽ bạn nghĩ đây là tính từ đuôi I vì nó kết thúc bằng I có phải không ạ? Nhưng không phải. Từ này thật ra không kết thúc bằng âm tiết I mà là âm tiết KI. Vì thế, “quyển sách mà tôi thích” sẽ nói là SUKINA HON. 
+
+<img src = "/media/jp16.jpg" alt = "jp16" border = "0" align = "center"/>
+
+Nhưng cũng có một số ngoại lệ. Một số tính từ đuôi NA kết thúc bằng âm tiết I, nhưng khi bổ nghĩa cho động từ thì vẫn thêm NA vào sau. Ví dụ, KIREI, nghĩa là “đẹp/sạch”, YÛMEI, nghĩa là “nổi tiếng”; và TOKUI nghĩa là “giỏi cái gì”. Vì thế, để nói là "quyển sách sạch đẹp" thì không dùng KIREI HON, mà là KIREINA HON. 
+
+* Động từ thể TE + MO II DESU KA (Bài 14):
+
+Nếu dùng động từ thể TE cùng với MO IIDESU nghĩa là bạn cho phép ai làm việc gì, tức là cho phép người đó thực hiện hành động được diễn tả bằng động từ thể TE.
+
+<img src = "/media/jp17.jpg" alt = "jp17" border = "0" align = "center"/>
+
+Ví dụ, nếu muốn nói với một người là “Bạn có thể ăn”, thì dùng thể TE của động từ “ăn”, TABEMASU, là TABETE, và thêm MO IIDESU. Như vậy sẽ nói là TABETE MO II DESU.
+
+Nếu bạn xin phép làm việc gì đó, thì hãy thêm KA vào cuối một câu như vậy và lên giọng khi nói. Ví dụ, nếu muốn xin phép ăn những miếng bánh quy ngay trước mặt mình, thì thêm KA vào cuối câu, và nói TABETE MO II DESU KA, nghĩa là “Tôi ăn có được không?” 
+
+<img src = "/media/jp18.jpg" alt = "jp18" border = "0" align = "center"/>
+
+Nếu người khác cho phép bạn, anh hoặc chị ấy sẽ nói DÔZO, “xin mời”. Nếu không biết thể TE của động từ TABERU, bạn có thể chỉ vào món mà bạn muốn ăn và nói IIDESU KA, “có được không ạ?”. Người khác sẽ hiểu ý bạn. Đây là một cách nói tiện lợi. 
+
+* Thể phủ định của tính từ (Bài 15):
+
+Trong bài 13, chúng ta đã học là tính từ trong tiếng Nhật có 2 loại: tính từ đuôi I và tính từ đuôi NA. Tính từ đuôi I kết thúc bằng âm tiết I, ví dụ như ATARASHII, “mới”. Tính từ đuôi NA khi bổ nghĩa cho danh từ sẽ thêm NA vào sau. Ví dụ, DAIJÔBU, "không sao/ổn", mà chúng ta học trong bài, khi đứng trước danh từ sẽ thành DAIJÔBUNA.
+
+<img src = "/media/jp19.jpg" alt = "jp19" border = "0" align = "center"/>
+
+Để biến tính từ đuôi I sang thể phủ định, thay I bằng KUNAI. Như vậy, thể phủ định của ATARASHII, "mới", là ATARASHIKUNAI, “không mới”. 
+
+<img src = "/media/jp20.jpg" alt = "jp20" border = "0" align = "center"/>
+
+Để biến tính từ đuôi NA thành thể phủ định, thêm DEWANAI. Như vậy, thể phủ định của DAIJÔBU, “không sao/ổn”, là DAIJÔBU DEWANAI, “không ổn”.
+
+Nếu thay DEWANAI bằng JANAI, và nói DAIJÔBU JANAI thì sẽ thân mật hơn.
+
+Xem phần "Tài liệu bổ sung". 
+
+* Cách sử dụng trợ từ NI (Bài 16):
+
+Nếu động từ trong phần vị ngữ thể hiện sự tồn tại, ví dụ như IMASU, nghĩa là “có” hoặc “tồn tại”, thì NI chỉ địa điểm. Ví dụ, “Tôi đang ở nhà ga” là WATASHI WA EKI NI IMASU.
+
+Nếu động từ thể hiện sự di chuyển hoặc sự thay đổi, ví dụ như IKIMASU, nghĩa là “đi”, thì NI chỉ nơi đến. Ví dụ, “Tôi đi đến nhà ga” là WATASHI WA EKI NI IKIMASU.
+
+NI cũng chỉ một thời gian cụ thể, ví dụ như ngày hoặc giờ. Ví dụ với câu “Anna đến vào lúc 10 giờ”. 10 giờ là JÛJI. “Đến” là KIMASU. Vì thế, câu này là ANNA WA JÛJI NI KIMASU.
+
+<img src = "/media/jp21.jpg" alt = "jp21" border = "0" align = "center"/>
+
+Từ NI không dùng với các từ như là “ngày mai” hoặc “tuần sau” bởi vì ngày giờ mà những từ này nói đến sẽ thay đổi, tùy thuộc vào thời điểm nói. Vì thế, trong câu “Anna sẽ đến vào ngày mai”, thì “ngày mai” là ASHITA, như vậy sẽ nói là ANNA WA ASHITA KIMASU. Không thể nói ANNA WA ASHITA NI KIMASU.
+
+Ngoài ra, NI cũng còn có các chức năng khác nữa. Chúng ta sẽ học tiếp khi nào những chức năng này xuất hiện trong các bài học tiếp theo. 
+
+* Tính từ + SÔ (Bài 17):
+
+Giống như trong OMOSHIROSÔ, nghĩa là "có vẻ thú vị", bạn thêm SÔ sau tính từ để diễn đạt điều bạn nghĩ hoặc đoán sau khi nhìn/nghe ai hoặc cái gì.
+
+Ở bài 13, bạn đã được học là trong tiếng Nhật có 2 loại tính từ. Loại thứ nhất là tính từ đuôi I. Các tính từ này kết thúc bằng âm tiết I, như OMOSHIROI, “thú vị”; và ISOGASHII, “bận rộn”.
+
+<img src = "/media/jp22.jpg" alt = "jp22" border = "0" align = "center"/>
+
+Lọai thứ hai là tính từ đuôi NA. Các từ này khi đứng trước danh từ mà nó bổ nghĩa sẽ có thêm đuôi NA.Ví dụ, HIMA, nghĩa là “rảnh rỗi”. 
+
+Về cách dùng SÔ sau tính từ để chỉ sự phỏng đoán thì như sau:
+
+Đối với tính từ đuôi I, đổi I thành SÔ. Ví dụ, ISOGASHII thành ISOGASHISÔ, "có vẻ bận rộn". 
+
+Đối với tính từ đuôi NA, bạn chỉ cần thêm SÔ vào sau. Ví dụ, HIMA thành HIMASÔ, “có vẻ rảnh rỗi”. 
+
+<img src = "/media/jp23.jpg" alt = "jp23" border = "0" align = "center"/>
+
+Bây giờ, tôi sẽ giải thích cách đổi SÔ sang thể phủ định. Trong trường hợp tính từ đuôi I, đổi I thành KU NASASÔ. Ví dụ, ISOGASHII đổi thành ISOGASHIKU NASASÔ, nghĩa là “có vẻ không bận rộn”. 
+
+Đối với tính từ đuôi NA, thêm DEWA NASASÔ sau tính từ. Ví dụ, HIMA đổi thành HIMA DEWA NASASÔ, “có vẻ không rảnh rỗi”. 
+
+* Động từ thể TE + SHIMAIMASHITA (Bài 18):
+
+SHIMAIMASHITA được dùng sau các động từ thể TE để nhấn mạnh bạn đã kết thúc một hành động nào đó. Có nghĩa là bạn không thể làm lại hành động đó được nữa hoặc mang nó quay trở lại trạng thái ban đầu. Vì vậy, SHIMAIMASHITA, thường được dùng khi bạn làm việc gì đó không thành công hoặc bạn thấy hối tiếc về việc mình đã làm.
+
+<img src = "/media/jp24.jpg" alt = "jp24" border = "0" align = "center"/>
+
+Ví dụ, giả sử bạn làm vỡ đĩa. Từ “làm vỡ” là WARIMASU. Trong từ nay, âm tiết đứng trước MASU là RI. Vì thế, thể TE sẽ là WATTE, rồi thêm SHIMAIMASHITA. Như vậy, WATTE SHIMAIMASHITA nghĩa là “Tôi làm vỡ đĩa mất rồi”. Câu này thể hiện được sắc thái là bạn đã bất cẩn làm vỡ đĩa. 
+
+* Thể quá khứ của tính từ (Bài 19):
+
+Các bạn đã học là có 2 loại tính từ trong tiếng Nhật. Đó là tính từ đuôi I và tính từ đuôi NA. Tính từ đuôi I là các tính từ kết thúc bằng âm tiết I, ví dụ như YASUI, nghĩa là “rẻ”. Tính từ đuôi NA là các từ khi bổ nghĩa cho danh từ sẽ thêm NA vào sau. Ví dụ, SUKI, nghĩa là “thích”, khi bổ nghĩa cho danh từ sẽ thành SUKINA. Ví dụ để nói "cuốn truyện tranh yêu thích" sẽ là SUKINA MANGA.
+
+<img src = "/media/jp25.jpg" alt = "jp25" border = "0" align = "center"/>
+
+Để được thể quá khứ của tính từ đuôi I, đổi I thành KATTA. Ví dụ, quá khứ của YASUI, “rẻ”, là YASUKATTA. Quá khứ của TAKAI, “đắt”, là TAKAKATTA. Nhưng YOKATTA, “tốt rồi”, là ngoại lệ duy nhất, được chia theo dạng bất quy tắc. Thì hiện tại của từ này là II, “tốt”, khi sang quá khứ thành YOKATTA . Các bạn hãy ghi nhớ nhé. 
+
+Để đổi tính từ đuôi I sang thể phủ định ở quá khứ, đổi I thành KU NAKATTA. Ví dụ, YASUI, “rẻ”, thành YASUKU NAKATTA. II, "tốt”, thành YOKU NAKATTA. 
+
+<img src = "/media/jp26.jpg" alt = "jp26" border = "0" align = "center"/>
+
+Để chia thì quá khứ của tính từ đuôi NA , thêm DATTA vào sau tính từ. Ví dụ, SUKI, “thích”, trở thành SUKI DATTA. BENRI, “tiện lợi”, thành BENRI DATTA.
+
+Để chia tính từ đuôi NA sang thể phủ định ở quá khứ, thêm DEWA NAKATTA. Ví dụ SUKI, “thích”, thành SUKI DEWA NAKATTA. 
+
+
