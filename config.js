@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Learning English, Chinese, Japan, Hebrew,... International.',
   copyright: '© 2019 Learning All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
