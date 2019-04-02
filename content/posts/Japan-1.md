@@ -20,6 +20,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 こちらこそ。  KOCHIRAKOSO.  Tôi cũng rất hân hạnh được gặp chị.
 
+<center><audio controls>
+<source src="/audio/01-vi-le_03.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 2:  Đây là cái gì?
 
 さくらさん。はい、どうぞ。 	SAKURA-SAN. HAI, DÔZO.  Chị Sakura này, xin tặng chị.
@@ -31,6 +36,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 ありがとうございます。 	ARIGATÔ GOZAIMASU.  Xin cảm ơn chị.
 
 どういたしまして。	  DÔITASHIMASHITE.  Không có gì ạ.
+
+<center><audio controls>
+<source src="/audio/02-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 3:  Nhà vệ sinh ở đâu ạ?
 
@@ -44,6 +54,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 すぐそこです。	  SUGU SOKO DESU. Ngay chỗ đó thôi.
 
+<center><audio controls>
+<source src="/audio/03-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 4:  Con đã về.
 
 ただいま。	  TADAIMA.  Con đã về.
@@ -56,6 +71,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 いいえ、私は留学生ではありません。日本人の学生です。  IIE, WATASHI WA RYÛGAKUSEI DEWA ARIMASEN.NIHON-JIN NO GAKUSEI DESU. Không, cháu không phải là du học sinh. Cháu là sinh viên người Nhật.
 
+<center><audio controls>
+<source src="/audio/04-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 5:  Những cái đó là báu vật của tôi.
 
 私の部屋はこちらです。どうぞ。	  WATASHI NO HEYA WA KOCHIRA DESU. DÔZO.  Phòng tôi ở hướng này. Xin mời chị vào.
@@ -64,6 +84,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 それは私の宝物です。私は毎日マンガを読みます。 SORE WA WATASHI NO TAKARAMONO DESU.WATASHI WA MAINICHI MANGA O YOMIMASU.  Những cái đó là báu vật của tôi.Tôi đọc truyện tranh hàng ngày.
 
+<center><audio controls>
+<source src="/audio/05-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 6:  Số điện thoại của chị là bao nhiêu?
 
 ところでアンナさん。電話番号は何番ですか。 TOKORODE ANNA-SAN. DENWABANGÔ WA NANBAN DESU KA.  Mà chị Anna này. Số điện thoại của chị là bao nhiêu?
@@ -71,6 +96,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 ええと。０８０－１２３４－・・・。 ÊTO. REI HACHI REI - ICHI NI SAN YON - ...  	Xem nào. 080 – 1234 – ...
 
 ありがとう。じゃ、今度、電話をしますね。  ARIGATÔ. JA, KONDO, DENWA O SHIMASU NE. Cảm ơn chị. Thế thì, lần sau tôi sẽ điện thoại cho chị nhé.
+
+<center><audio controls>
+<source src="/audio/06-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 7:  Có bánh su kem không ạ?
 
@@ -82,6 +112,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 シュークリームを２つください。 	SHÛKURÎMU O FUTATSU KUDASAI.  Xin cho tôi 2 chiếc bánh su kem.
 
+<center><audio controls>
+<source src="/audio/07-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 8:  Xin thày nói lại một lần nữa ạ!
 
 みなさん、これを覚えてください。試験によく出ます。 	MINASAN, KORE O OBOETE KUDASAI. SHIKEN NI YOKU DEMASU.  Các em, hãy ghi nhớ cái này!Cái này thường có trong bài thi.
@@ -89,6 +124,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 えっ。 	E'. 	Ối!
 
 先生、もう一度お願いします。	  SENSEI, MÔICHIDO ONEGAI SHIMASU.  Thưa thày, xin thày nói lại một lần nữa ạ!
+
+<center><audio controls>
+<source src="/audio/08-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 9:  Từ mấy giờ ạ?
 
@@ -98,6 +138,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 午前９時から１１時までです。ここに８時半に集まって下さい。 GOZEN KUJI KARA JÛICHIJI MADE DESU. KOKO NI HACHIJI HAN NI ATSUMATTE KUDASAI.   Từ 9 giờ đến 11 giờ sáng.Các em hãy tập trung ở đây lúc 8 rưỡi!
 
+<center><audio controls>
+<source src="/audio/09-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 10: Tất cả mọi người có mặt chưa?
 
 はじめに身長と体重をはかります。全員いますか。   HAJIMENI SHINCHÔ TO TAIJÛ O HAKARIMASU. ZEN-IN IMASU KA.  Đầu tiên sẽ đo chiều cao và cân nặng. Tất cả mọi người có mặt chưa?
@@ -106,11 +151,21 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 すみません。遅れました。  	SUMIMASEN. OKUREMASHITA.  	Xin lỗi, em đến muộn.
 
+<center><audio controls>
+<source src="/audio/10-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 11: Chị nhất định đến nhé!
 
 今週の土曜日に寮でパーティーを開きます。さくらさん、ぜひ来てください。 	KONSHÛ NO DOYÔBI NI RYÔ DE PÂTÎ O HIRAKIMASU.SAKURA-SAN, ZEHI KITE KUDASAI. Vào thứ Bảy tuần này, chúng tôi sẽ mở tiệc tại kí túc xá.Chị Sakura ơi, chị nhất định đến nhé!
 
 わあ、行く行く。今度の土曜日ね。  WÂ, IKU IKU.KONDO NO DOYÔBI NE. Ồ, đi chứ, đi chứ! Thứ Bảy này có phải không?
+
+<center><audio controls>
+<source src="/audio/11-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 12: Anh đến Nhật Bản khi nào?
 
@@ -122,6 +177,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 ええ、まあ。	  Ê, MÂ.  Vâng, tôi cũng hơi quen rồi.
 
+<center><audio controls>
+<source src="/audio/12-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 13: Tôi thích tiểu thuyết.
 
 ロドリゴさんの趣味は何ですか。	  RODORIGO-SAN NO SHUMI WA NAN DESU KA. Sở thích của anh Rodrigo là gì?
@@ -130,6 +190,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 へえ。新宿に新しい本屋が出来ましたよ。みんなで行きませんか。  HÊ. SHINJUKU NI ATARASHII HON-YA GA DEKIMASHITA YO.MINNA DE IKIMASEN KA.  Thế à? Ở Shinjuku có một hiệu sách mới mở đấy. Tất cả mọi người cùng đi không?
 
+<center><audio controls>
+<source src="/audio/13-vi-le_03.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 14: Con vứt rác ở đây có được không ạ?
 
 お母さん、ここにゴミを捨ててもいいですか。	  OKÂSAN, KOKO NI GOMI O SUTETE MO II DESU KA.  Mẹ ơi, con vứt rác ở đây có được không ạ?
@@ -137,6 +202,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 そうねえ。缶は別の袋に入れてください。資源ですから。  SÔNÊ. KAN WA BETSU NO FUKURO NI IRETE KUDASAI. SHIGEN DESU KARA.  Để xem nào. Hãy bỏ vỏ hộp kim loại vào một túi khác. Vì chúng là nguyên liệu có thể tái chế.
 
 はい、分かりました。  HAI, WAKARIMASHITA.   	Vâng, con hiểu rồi.
+
+<center><audio controls>
+<source src="/audio/14-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 15: Họ đang ngủ
 
@@ -148,6 +218,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 大丈夫、大丈夫。ほら、起きた。	  DAIJÔBU, DAIJÔBU. HORA, OKITA.  Không sao, không sao. Nhìn kìa! Họ dậy rồi.
 
+<center><audio controls>
+<source src="/audio/15-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 16: Chị hãy đi lên cầu thang rồi rẽ phải.
 
 いらっしゃいませ。	  IRASSHAIMASE. Xin kính chào quý khách.
@@ -155,6 +230,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 あのう、マンガ売り場はどこですか。	  ANÔ, MANGA URIBA WA DOKO DESU KA. Anh ơi, khu bán truyện tranh ở đâu ạ?
 
 ２階です。階段を上がって、右に行ってください。	  NIKAI DESU. KAIDAN O AGATTE, MIGI NI ITTE KUDASAI.  Trên tầng 2 ạ. Chị hãy đi lên cầu thang, rồi rẽ phải.
+
+<center><audio controls>
+<source src="/audio/16-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 17: Chị khuyên tôi nên mua cuốn nào?
 
@@ -166,6 +246,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 ホラーはちょっと…。	  HORÂ WA CHOTTO....  Truyện kinh dị thì hơi…
 
+<center><audio controls>
+<source src="/audio/17-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 18: Tôi bị lạc đường mất rồi.
 
 もしもし、さくらさん。助けてください。道に迷ってしまいました。   	MOSHIMOSHI, SAKURA-SAN. TASUKETE KUDASAI. MICHI NI MAYOTTE SHIMAIMASHITA. Alô, chị Sakura à? Xin hãy giúp tôi! Tôi bị lạc đường mất rồi.
@@ -175,6 +260,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 目の前に郵便局があります。	  ME NO MAE NI YÛBINKYOKU GA ARIMASU. Ngay trước mắt tôi là bưu điện.
 
 分かった。そこにいて。	  WAKATTA. SOKO NI ITE.   Tôi hiểu rồi. Chị cứ ở chỗ đó nhé!
+
+<center><audio controls>
+<source src="/audio/18-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 19: Tốt rồi.
 
@@ -186,6 +276,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 ごめんなさい。カメラが安かったので、つい見てしまいました。 GOMENNASAI. KAMERA GA YASUKATTA NODE, TSUI MITE SHIMAIMASHITA.  Tôi xin lỗi. Vì máy ảnh rẻ, nên tôi cứ mải xem.
 
+<center><audio controls>
+<source src="/audio/19-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 20: Chị đã bao giờ hát bài hát Nhật Bản chưa?
 
 アンナさんは日本の歌を歌ったことがありますか。	  ANNA-SAN WA NIHON NO UTA O UTATTA KOTO GA ARIMASU KA. Chị Anna này, chị đã bao giờ hát bài hát Nhật Bản chưa?
@@ -195,6 +290,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 どんな曲が得意？	  DONNA KYOKU GA TOKUI? Chị hát được những bài như thế nào?
 
 アニメの曲です。	  ANIME NO KYOKU DESU.  Bài hát của phim hoạt hình ạ.
+
+<center><audio controls>
+<source src="/audio/20-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 21: Không, không hay đến mức đấy đâu ạ.
 
@@ -206,6 +306,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 大変。門限に間に合わない。	  TAIHEN. MONGEN NI MANIAWANAI. Gay go rồi! Tôi không về kịp giờ đóng cửa kí túc xá mất.
 
+<center><audio controls>
+<source src="/audio/21-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 22: Con đã về muộn.
 
 お母さん、ごめんなさい。遅くなりました。	  OKÂSAN, GOMENNASAI. OSOKU NARIMASHITA.  Mẹ ơi, con xin lỗi. Con đã về muộn.
@@ -213,6 +318,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 アンナさん、１０分も遅刻です。約束を破ってはいけません。  ANNA-SAN, JIPPUN MO CHIKOKU DESU. YAKUSOKU O YABUTTE WA IKEMASEN. Anna này, con về muộn những 10 phút.Thất hứa là không được!
 
 すみません。気をつけます。	  SUMIMASEN. KI O TSUKEMASU.  Con xin lỗi. Con sẽ chú ý hơn.
+
+<center><audio controls>
+<source src="/audio/22-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 23: Em đã bị Mẹ mắng.
 
@@ -224,6 +334,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 それは大変だったね。    SORE WA TAIHEN DATTA NE.  Thế thì khổ thân nhỉ!
 
+<center><audio controls>
+<source src="/audio/23-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 24: Các em đừng sử dụng từ điển.
 
 はい、今日はここまでです。来週の月曜日に試験をします。 HAI, KYÔ WA KOKO MADE DESU. RAISHÛ NO GETSUYÔBI NI SHIKEN O SHIMASU.  Được rồi, hôm nay đến chỗ này thôi.Vào thứ Hai tuần sau, tôi sẽ cho bài kiểm tra.
@@ -232,6 +347,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 
 いいえ、だめです。使わないでください。	  IIE, DAME DESU. TSUKAWANAIDE KUDASAI.   Không, không được! Các em đừng sử dụng từ điển.
 
+<center><audio controls>
+<source src="/audio/24-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 25: Chui xuống gầm bàn!
 
 地震だ。みんな、落ち着いて。机の下に入れ。 JISHIN DA. MINNA, OCHITSUITE. TSUKUE NO SHITA NI HAIRE. Có động đất! Tất cả mọi người, hãy bình tĩnh! Chui xuống gầm bàn!
@@ -239,6 +359,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 揺れは収まったようだ。	  YURE WA OSAMATTA YÔ DA. Có vẻ như đã bớt rung lắc rồi.
 
 びっくりした。日本は本当に地震が多いですね。	  BIKKURI SHITA. NIHON WA HONTÔ NI JISHIN GA ÔI DESU NE.  Giật cả mình! Nhật Bản đúng là hay có động đất nhỉ.
+
+<center><audio controls>
+<source src="/audio/25-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 26: Lần sau bọn mình cùng cố gắng nhé.
 
@@ -249,6 +374,11 @@ description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 私も…。６０点でした。次はがんばろう。 	WATASHI MO.... ROKUJITTEN DESHITA. TSUGI WA GANBARÔ.  Mình cũng vậy... Mình được 60 điểm.
 Lần sau bọn mình cùng cố gắng nhé.
 
+<center><audio controls>
+<source src="/audio/26-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 27: Ai kết hôn đấy ạ?
 
 誰が結婚するんですか。	  DARE GA KEKKON SURU N DESU KA.  Ai kết hôn đấy ạ?
@@ -258,6 +388,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 へえ。いつですか。	  HÊ. ITSU DESU KA. Ôi, thế à! Bao giờ thế ạ?
 
 来月２０日よ。アンナも一緒に静岡に行かない？	  RAIGETSU HATSUKA YO. ANNA MO ISSHO NI SHIZUOKA NI IKANAI?   Ngày 20 tháng sau đấy. Anna có đi cùng chị đến Shizuoka không?
+
+<center><audio controls>
+<source src="/audio/27-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 28: Chào mừng em đến Shizuoka.
 
@@ -271,6 +406,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 （アンナちゃん、かわいいなあ） (ANNA-CHAN, KAWAII NÂ.) 	(Anna dễ thương quá!)
 
+<center><audio controls>
+<source src="/audio/28-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 29: Khi nhìn gần, trông lớn nhỉ!
 
 富士山だ。近くで見ると、大きいですね。 	FUJISAN DA. CHIKAKU DE MIRU TO, ÔKII DESU NE.   Núi Phú Sĩ đây rồi. Khi nhìn gần, trông lớn nhỉ!
@@ -278,6 +418,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 あれ。雲の形が帽子みたいです。 	ARE. KUMO NO KATACHI GA BÔSHI MITAI DESU.   Ôi! Hình dáng của đám mây trông giống chiếc mũ.
 
 あの雲が見えると、雨が降るんだよ。 ANO KUMO GA MIERU TO, AME GA FURU N DA YO.  Nếu nhìn thấy đám mây kia, thì trời sẽ mưa đấy.
+
+<center><audio controls>
+<source src="/audio/29-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 30: Em muốn chụp ảnh thêm một lúc nữa.
 
@@ -287,6 +432,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 雨にぬれたら、風邪をひくよ。    	AME NI NURETARA, KAZE O HIKU YO.    Nếu bị mưa ướt, sẽ bị cảm lạnh đấy.
 
+<center><audio controls>
+<source src="/audio/30-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 31: Bà đã 82 tuổi rồi đấy.
 
 おばあさん、お元気ですね。 OBÂSAN, OGENKI DESU NE. 	Bà ơi, trông bà còn khỏe quá ạ!
@@ -294,6 +444,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 もう８２歳ですよ。さあ、お茶をどうぞ。 	MÔ HACHIJÛNI SAI DESU YO.SÂ, OCHA O DÔZO. Bà đã 82 tuổi rồi đấy. Nào, cháu uống trà đi.
 
 わあ、きれいな緑色。香りもいいです。  	WÂ, KIREINA MIDORI IRO. KAORI MO II DESU.   Ồ, màu xanh lục đẹp quá! Hương cũng thơm.
+
+<center><audio controls>
+<source src="/audio/31-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 32: Em thích đệm futon hơn.
 
@@ -305,6 +460,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 おやすみ。 	OYASUMI.  	Chúc ngủ ngon.
 
+<center><audio controls>
+<source src="/audio/32-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 33: Anh sẽ tặng cho Anna.
 
 これは、僕が富士山で撮った写真です。  	KORE WA, BOKU GA FUJISAN DE TOTTA SHASHIN DESU. Đây là bức ảnh anh chụp ở núi Phú Sĩ.
@@ -314,6 +474,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 驚いた？あとで、アンナさんにあげます。 	ODOROITA? ATODE, ANNA-SAN NI AGEMASU. Em ngạc nhiên không?Sau này, anh sẽ tặng cho Anna.
 
 写真をくれるんですか。うれしいです。  	SHASHIN O KURERU N DESU KA? URESHII DESU. 	Anh sẽ tặng bức ảnh cho em à? Vui quá ạ!
+
+<center><audio controls>
+<source src="/audio/33-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 34: Mềm và ngon quá ạ!
 
@@ -325,6 +490,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 いただきます。やわらかくておいしいです。	  	ITADAKIMASU.YAWARAKAKUTE OISHII DESU. Em xin phép. Mềm và ngon quá ạ!
 
+<center><audio controls>
+<source src="/audio/34-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 35: Tôi có thể trả bằng thẻ tín dụng được không?
 
 お勘定をお願いします。	  OKANJÔ O ONEGAI SHIMASU.  Làm ơn cho tôi thanh toán.
@@ -335,6 +505,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 はい、使えます。  HAI, TSUKAEMASU.  	Vâng, được ạ.
 
+<center><audio controls>
+<source src="/audio/35-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 36: Em còn phải học.
 
 寂しくなります。	  SABISHIKU NARIMASU. Anh sẽ buồn lắm.
@@ -342,6 +517,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 私もです。でも、大学で勉強しなければなりません。  WATASHI MO DESU.DEMO, DAIGAKU DE BENKYÔ SHINAKEREBA NARIMASEN.  Em cũng thế.Nhưng em còn phải học ở trường.
 
 じゃ、僕が春休みに東京に行きます。 JA, BOKU GA HARUYASUMI NI TÔKYÔ NI IKIMASU.   Thế thì, anh sẽ lên Tokyo trong kì nghỉ Xuân.
+
+<center><audio controls>
+<source src="/audio/36-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 37: Con đã ngắm núi Phú Sĩ, ăn sushi và tham gia những hoạt động khác nữa.
 
@@ -351,6 +531,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 それはよかったわね。  SORE WA YOKATTA WA NE.  	Thế thì tốt rồi.
 
+<center><audio controls>
+<source src="/audio/37-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 38: Vâng, tôi hiểu rồi ạ.
 
 市民病院までお願いします。	  SHIMIN BYÔIN MADE ONEGAI SHIMASU. 	Xin hãy chở chúng tôi tới Bệnh viện Thành phố.
@@ -358,6 +543,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 かしこまりました。 KASHIKOMARIMASHITA. 	Vâng, tôi hiểu rồi ạ.
 
 まっすぐ行って、３つ目の信号を左に曲がってください。  MASSUGU ITTE, MITTSU ME NO SHINGÔ O HIDARI NI MAGATTE KUDASAI.  Anh hãy đi thẳng, rồi rẽ trái ở chỗ đèn xanh đèn đỏ thứ 3.
+
+<center><audio controls>
+<source src="/audio/38-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 39: Tôi nghĩ là chị bị cảm lạnh.
 
@@ -369,6 +559,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 喉を見せてください。かぜだと思います。 NODO O MISETE KUDASAI.KAZE DA TO OMOIMASU.  Để tôi khám họng. Tôi nghĩ là chị bị cảm lạnh.
 
+<center><audio controls>
+<source src="/audio/39-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 40: Đầu con đau như búa bổ
 
 おかゆですよ。 体調は、どう？ OKAYU DESU YO.TAICHÔ WA, DÔ?  Cháo này con. Con thấy trong người thế nào?
@@ -376,6 +571,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 頭がずきずきします。  ATAMA GA ZUKIZUKI SHIMASU.  	Đầu con đau như búa bổ.
 
 そう。欲しいものがあったら、言ってね。 SÔ. HOSHII MONO GA ATTARA, ITTE NE. Thế à? Nếu muốn gì thì nói nhé!
+
+<center><audio controls>
+<source src="/audio/40-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 41: Em rất vui vì đã được đến lễ hội ở trường.
 
@@ -387,6 +587,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 次は東京で会いましょう。  	TSUGI WA TÔKYÔ DE AIMASHÔ.  	Lần tới, hẹn gặp anh ở Tokyo.
 
+<center><audio controls>
+<source src="/audio/41-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 42: Cái nào thì ngon nhất nhỉ?
 
 どれがいちばんおいしいかな。	  DORE GA ICHIBAN OISHII KANA.  Cái nào thì ngon nhất nhỉ?
@@ -397,6 +602,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 僕も。支払いは別々にお願いします。  BOKU MO. SHIHARAI WA BETSUBETSUNI ONEGAI SHIMASU.  	Tôi cũng vậy. Cho chúng tôi trả tiền riêng.
 
+<center><audio controls>
+<source src="/audio/42-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 43: Theo các em, tại sao lại như vậy?
 
 姫路城は奇跡の城と言われています。どうしてでしょうか。 HIMEJI-JÔ WA KISEKI NO SHIRO TO IWARETE IMASU.DÔSHITE DESHÔ KA. Thành Himeji được gọi là một ngôi thành kì diệu. Theo các em, tại sao lại như vậy?
@@ -405,6 +615,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 さすが、ロドリゴ！ SASUGA, RODORIGO! 	Rodrigo giỏi quá!
 
+<center><audio controls>
+<source src="/audio/43-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 44: Sau khi ăn bánh Nhật Bản, thì uống trà pha từ bột trà xanh.
 
 和菓子はとても甘いですね。 WAGASHI WA TOTEMO AMAI DESU NE. 	Bánh Nhật Bản rất ngọt, thày nhỉ?
@@ -412,6 +627,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 和菓子を食べてから、抹茶を飲みます。抹茶は苦いかもしれません。 WAGASHI O TABETE KARA, MACCHA O NOMIMASU.MACCHA WA NIGAI KAMOSHIREMASEN.  Sau khi ăn bánh Nhật Bản, thì uống trà pha từ bột trà xanh.Trà này có thể đắng.
 
 先生、足がしびれました。いたたたた。	  SENSEI, ASHI GA SHIBIREMASHITA. ITATATATA.  	Thày ơi, chân em bị tê. Ôi, đau quá!
+
+<center><audio controls>
+<source src="/audio/44-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 45: Chúc mừng sinh nhật!
 
@@ -425,6 +645,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 開けてもいいですか。  	AKETE MO II DESU KA.  Em mở ra có được không ạ?
 
+<center><audio controls>
+<source src="/audio/45-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 46: Trước khi về nước được nhìn thấy tuyết, em thấy vui quá ạ.
 
 もしかして、雪？  	MOSHIKASHITE, YUKI? 	Liệu có thể là tuyết không nhỉ?
@@ -433,6 +658,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 
 帰国する前に、雪を見ることができて幸せです。  KIKOKU SURU MAE NI, YUKI O MIRU KOTO GA DEKITE SHIAWASE DESU.   Trước khi về nước được nhìn thấy tuyết, em thấy vui quá ạ!
 
+<center><audio controls>
+<source src="/audio/46-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 * Bài 47: Trở thành giáo viên tiếng Nhật là mơ ước của em.
 
 最後に、みなさんの夢を教えてください。 SAIGO NI, MINASAN NO YUME O OSHIETE KUDASAI.  Cuối cùng, hãy cho tôi biết ước mơ của các em!
@@ -440,6 +670,11 @@ Lần sau bọn mình cùng cố gắng nhé.
 僕は日本を１周したいです。 BOKU WA NIHON O ISSHÛ SHITAI DESU.  Em muốn đi du lịch vòng quanh Nhật Bản.
 
 私は…日本語教師になるのが夢です。 	WATASHI WA... NIHONGO-KYÔSHI NI NARU NO GA YUME DESU. Còn em thì…trở thành giáo viên tiếng Nhật là mơ ước của em.
+
+<center><audio controls>
+<source src="/audio/47-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 * Bài 48: Cảm ơn mọi người vì mọi việc.
 
@@ -450,3 +685,8 @@ Lần sau bọn mình cùng cố gắng nhé.
 はい。いろいろお世話になりました。 	HAI. IROIRO OSEWA NI NARIMASHITA.  	Vâng. Cảm ơn mọi người vì mọi việc.
   
 健太さんとさくらさんもお元気で。  KENTA-SAN TO SAKURA-SAN MO OGENKIDE.  	Anh Kenta và chị Sakura cũng ở lại mạnh khỏe nhé!
+
+<center><audio controls>
+<source src="/audio/48-vi-le_01.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
