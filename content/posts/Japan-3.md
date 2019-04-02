@@ -1,13 +1,13 @@
 ---
-title: Japan.
-date: "2019-04-01"
+title: Japan-1.
+date: "2019-04-02"
 template: "post"
 draft: false
-slug: "/japan"
-category: "Japan"
+slug: "/japan-1"
+category: "Japan-1"
 tags:
   - "Japan"
-description: "やさしい日本語 Cùng nhau học tiếng Nhật"
+description: "やさしい日本語 Cùng nhau học tiếng Nhật-1"
 ---
 
 <center>
