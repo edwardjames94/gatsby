@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Learning',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'Learning English, Chinese, Japan, Hebrew,... International.',
     contacts: {
       email: '#',
