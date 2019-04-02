@@ -7,7 +7,7 @@ slug: "/Japan-1"
 category: "Japan"
 tags:
   - "Japan"
-description: "やさしい日本語Cùng nhau học tiếng Nhật-1."
+description: "やさしい日本語 Cùng nhau học tiếng Nhật-1."
 ---
 * Hệ thống chữ viết tiếng Nhật (Bài 1):
 
