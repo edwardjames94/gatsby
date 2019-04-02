@@ -7,7 +7,7 @@ slug: "/japan"
 category: "Japan"
 tags:
   - "Japan"
-description: "Cùng nhau học tiếng Nhật"
+description: "やさしい日本語 Cùng nhau học tiếng Nhật"
 ---
 
 * Bài 1:  Tôi là
