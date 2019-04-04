@@ -1,6 +1,6 @@
 ---
 template: post
-title: Trung Quốc.ssssssssss
+title: Trung Quốc.ssssssssssssssss
 slug: /chinese
 draft: false
 date: '2019-04-01'
