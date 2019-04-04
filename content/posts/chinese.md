@@ -1,13 +1,13 @@
 ---
-title: Trung Quốc.
-date: "2019-04-01"
-template: "post"
+template: post
+title: Trung Quốc.ssssssssss
+slug: /chinese
 draft: false
-slug: "/chinese"
-category: "Chinese"
-tags:
-  - "Chinese"
+date: '2019-04-01'
 description: Cùng nhau học tiếng Trung."
+category: Chinese
+tags:
+  - Chinese
 ---
 
 * Phần 1: Chào hỏi tiếng Trung Quốc
