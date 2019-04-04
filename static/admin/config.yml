@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: master
   
+publish_mode: editorial_workflow
+  
 media_folder: "static/media"
 public_folder: "/media"
 
@@ -21,10 +23,4 @@ collections:
       - {label: "Category", name: "category", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      
-publish_mode: editorial_workflow
-  - name: "Workflow"
-    label: "Workflow"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
 
